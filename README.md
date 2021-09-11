@@ -40,3 +40,17 @@ Obs: SERIAL -> Incremental
 -> UPDATE tabela SET var
 
 -> DELETE FROM tabela
+
+**ORM**
+
+-> Mapeamento das entidades para classes
+
+-> Evita código repetitivo(comandos SQL)
+
+-> Mapeia tabelas para classes
+
+**Sequelize**
+
+-> ORM para NodeJS
+
+-> Postgres, MySQL, etc
